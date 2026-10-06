@@ -1,0 +1,12 @@
+[project]
+name = "labqc"
+version = "0.1.0"
+description = "Westgard multirule QC and cross-branch drift detection for clinical laboratories"
+requires-python = ">=3.9"
+dependencies = ["pandas", "numpy", "matplotlib", "scikit-learn"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

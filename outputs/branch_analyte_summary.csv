@@ -1,0 +1,13 @@
+branch,analyte,runs,rejections,warnings,mean_z,sd_z,rejection_rate_pct
+Branch_C,Creatinine,180,43,34,0.676,1.283,23.9
+Branch_B,Glucose,180,41,30,0.615,1.246,22.8
+Branch_D,ALT,180,10,18,0.065,1.338,5.6
+Branch_C,Glucose,180,4,8,-0.035,1.009,2.2
+Branch_A,Creatinine,180,3,9,0.038,1.016,1.7
+Branch_D,Creatinine,180,2,8,-0.199,0.992,1.1
+Branch_C,ALT,180,2,11,-0.12,1.034,1.1
+Branch_A,ALT,180,1,10,-0.018,1.033,0.6
+Branch_B,Creatinine,180,1,7,-0.047,1.021,0.6
+Branch_B,ALT,180,1,8,0.072,0.971,0.6
+Branch_D,Glucose,180,1,9,-0.121,1.021,0.6
+Branch_A,Glucose,180,0,4,-0.057,0.867,0.0
